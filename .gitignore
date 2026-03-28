@@ -1,0 +1,15 @@
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.swp
+*.iso
+*.img
+*.qcow2
+*.vdi
+*.vmdk
+dist/
+build/
+out/
+node_modules/
+__pycache__/
