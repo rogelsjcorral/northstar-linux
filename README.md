@@ -18,7 +18,7 @@ Northstar Linux is a retro-inspired Linux project built on Ubuntu, designed to b
 - Netscape Navigator inspired browser structure
 - Classic theme colors including lilac, blue, and teal
 - Desktop-first layout with strong visual identity
-- Filipino touch through the bahay kubo Home icon
+- Old-school BBS as part of the overall retro computing experience
 
 ## Current Repo Structure
 
@@ -27,9 +27,9 @@ Northstar Linux is a retro-inspired Linux project built on Ubuntu, designed to b
 - `themes/`
 - `desktop/`
 - `browser/`
+- `bbs/`
 - `distro/`
 - `scripts/`
-- `bbs/`
 - `notes/`
 
 ## Status
